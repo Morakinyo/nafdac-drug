@@ -1,6 +1,8 @@
-def sac(val):
+# route.apply(sac)
+# run this way
+
+def sap(val):
     pieces = [x.strip() for x in val.split('/')]
     rjoin = '/'.join(pieces)
-    return val
+    return rjoin
 
-# route.apply(sac)
