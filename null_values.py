@@ -29,6 +29,9 @@ def nullcols(df):
     #null_columns = df.columns[df.isnull().any()]
     #print(df[df[column].isnull()][null_columns])
 
+# To select column where null values
+#df.loc[df.column/[column].isnull(),:]
+
 def nullqty(df, qty_of_nuls=1):
     return df.iloc[df[(df.isnull().sum(axis=1) >= qty_of_nuls)].index]
 
