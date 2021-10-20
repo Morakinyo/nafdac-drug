@@ -16,7 +16,7 @@ import numpy as np
 
 
 #To return every row that contains at least one null value
-#print(dataframe[dataframe.isnul().any(axis=1)][null_columns].head())
+#print(dataframe[dataframe.isnull().any(axis=1)][null_columns].head())
 
 def nans(df):
     return df[df.isnull().any(axis=1)]

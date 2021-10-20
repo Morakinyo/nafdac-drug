@@ -1,0 +1,117 @@
+﻿Computer Name;Security Product;Last Connected;Security Product Version;Tags;Status;Muted;Modules status;Alerts;Detections;Group Name;Policies;OS Name;OS Version;OS Platform
+desktop-1movtb6;ESET Endpoint Security;2021-07-07 12:14:35;8.1.2031.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+desktop-o5o2q7h;ESET Endpoint Security;2021-07-07 12:14:30;8.0.2028.0;;1;0;Updated;;1;Lost & found;5;Microsoft Windows 10 Home;10.0.19042.1052;64-bit
+dir-fpo-dt-012;ESET Endpoint Security;2021-07-07 12:14:25;8.1.2031.0;;5;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19043.1052;64-bit
+av-server-wireless;ESET Server Security;2021-07-07 12:14:03;8.0.12003.0;;5;0;Updated;1;0;Lost & found;5;Microsoft Windows Server 2012 R2 Standard;6.3.9600.19873;64-bit
+fsan-cdx-lt-001;ESET Endpoint Security;2021-07-07 12:00:18;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19043.1052;64-bit
+desktop-987jqep;ESET Endpoint Security;2021-07-07 11:46:08;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+ict-admin-uche;ESET Endpoint Security;2021-07-07 11:41:12;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home;10.0.19041.1052;64-bit
+advert-rnr-dt-021;ESET Endpoint Security;2021-07-06 16:23:17;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+desktop-f47thq8;ESET Endpoint Security;2021-07-06 15:28:05;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+randr-advert-08;ESET Endpoint Security;2021-07-06 14:20:41;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.985;32-bit
+foodrr-do-dt-019;ESET Endpoint Security;2021-07-06 14:14:27;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.1052;64-bit
+gbenga-fajemirokun;ESET Endpoint Security;2021-07-05 15:20:33;8.0.2028.0;;1;0;Updated;;1;Lost & found;5;Microsoft Windows 10 Home;10.0.19042.1052;64-bit
+regina-garba-pvpms;ESET Endpoint Security;2021-07-05 14:00:12;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+laptop-rmq3ei7b;ESET Endpoint Security;2021-07-05 12:43:55;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.488;64-bit
+desktop-kehdc9r;ESET Endpoint Security;2021-07-05 11:34:09;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1440;64-bit
+dgo-mlrm-dt-001;;2021-07-02 16:45:20;;;1;0;Unknown;;0;Lost & found;5;"Microsoft Windows 7 Professional ";6.1.7601.23964;64-bit
+laptop-3jr1hbbb;ESET Endpoint Security;2021-06-28 16:34:21;8.0.2028.0;;5;0;Updated;2;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.488;64-bit
+desktop-4tcipnq;ESET Endpoint Security;2021-06-28 16:02:48;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.631;64-bit
+desktop-dneo48n;ESET Endpoint Security;2021-06-25 14:06:18;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1500;64-bit
+desktop-j0h9scf;ESET Endpoint Security;2021-06-25 13:38:26;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.17763.1577;64-bit
+pv-pms-dd-dt-002;ESET Endpoint Security;2021-06-25 13:13:37;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+laptop-m3h3p7cv;ESET Endpoint Security;2021-06-25 13:04:47;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.488;64-bit
+laptop-uudkngb0;ESET Endpoint Security;2021-06-25 12:30:22;8.0.2028.0;;3;0;Updated;2;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.488;64-bit
+ibok-laptop;ESET Endpoint Security;2021-06-22 00:41:30;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+rr-fd-dt-001;ESET Endpoint Security;2021-06-22 00:31:59;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+fsan-cdx-dt-006;ESET Endpoint Security;2021-06-22 00:31:53;8.0.2028.0;;5;0;Not updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1316;64-bit
+desktop-n65kcnn;ESET Endpoint Security;2021-06-22 00:31:53;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+fsan-lt-14-water;ESET Endpoint Security;2021-06-22 00:31:41;8.0.2028.0;;1;0;Updated;;7;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1500;64-bit
+desktop-6h13bgj;ESET Endpoint Security;2021-06-22 00:31:33;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+rnr-ipfw-dt-0001;ESET Endpoint Security;2021-06-22 00:31:31;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1440;64-bit
+desktop-h3ivm03;ESET Endpoint Security;2021-06-22 00:31:22;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.985;64-bit
+cer-dir-dt-004;ESET Endpoint Security;2021-06-22 00:24:09;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1198;64-bit
+personal-pc;ESET Endpoint Security;2021-06-22 00:22:53;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.19041.985;64-bit
+vmap-lod-dt-005;ESET Endpoint Security;2021-06-22 00:18:06;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+randr-id-05;ESET Endpoint Security;2021-06-22 00:17:37;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Enterprise;10.0.18362.959;64-bit
+nafdac-cer-1;ESET Endpoint Security;2021-06-22 00:14:26;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.1052;64-bit
+desktop-685ddg5;ESET Endpoint Security;2021-06-22 00:09:54;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1556;64-bit
+cer-dir-dt-006;ESET Endpoint Security;2021-06-22 00:08:38;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.1052;64-bit
+ncs-lod-dt-001;ESET Endpoint Security;2021-06-22 00:08:20;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.1052;64-bit
+ushie-pc;ESET Endpoint Security;2021-06-22 00:02:17;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1440;64-bit
+laptop-4lbvveva;ESET Endpoint Security;2021-06-21 16:31:35;8.0.2028.0;;3;0;Updated;2;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.746;64-bit
+laptop-hhnfe1vt;ESET Endpoint Security;2021-06-21 16:20:02;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.746;64-bit
+desktop-oniv8ak;ESET Endpoint Security;2021-06-17 15:28:20;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.1052;64-bit
+desktop-s4k8hv3;ESET Endpoint Security;2021-06-17 11:39:43;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.19042.1052;64-bit
+desktop-qu9jkpa;ESET Endpoint Security;2021-06-08 15:18:38;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.985;64-bit
+desktop-4j2lrjq;ESET Endpoint Security;2021-06-03 14:51:10;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.985;64-bit
+desktop-da2ofk9;ESET Endpoint Security;2021-06-03 13:55:01;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home;10.0.17763.1577;64-bit
+laptop-e3oip5j3;ESET Endpoint Security;2021-04-14 13:02:21;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home;10.0.19042.867;64-bit
+drnr-prd-12;ESET Endpoint Security;2021-04-14 13:02:11;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+limsremote;ESET Endpoint Security;2021-04-14 13:02:04;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home;10.0.18363.1440;64-bit
+vmap-grace-lt;ESET Endpoint Security;2021-04-14 13:01:40;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.15063.1418;64-bit
+rnr-ifpw-dt-017;ESET Endpoint Security;2021-04-14 13:01:38;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+fsan-dir-dt-020;ESET Endpoint Security;2021-04-14 13:01:36;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1198;64-bit
+cer-cic-004;ESET Endpoint Security;2021-04-14 13:01:31;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18362.720;64-bit
+rnr-fdac-dt-0036;ESET Endpoint Security;2021-04-14 13:01:30;8.0.2028.0;;1;0;Updated;;1;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.867;64-bit
+randr-prd-09;ESET Endpoint Security;2021-04-14 13:01:29;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.804;64-bit
+cer-cmra-dt-001;ESET Endpoint Security;2021-04-14 13:01:25;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18362.836;64-bit
+rnr-lod-dt-009;ESET Endpoint Security;2021-04-14 13:01:22;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+desktop-k5qok3j;ESET Endpoint Security;2021-04-14 12:28:58;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1440;64-bit
+desktop-gi11413;ESET Endpoint Security;2021-04-14 12:05:50;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.17763.1577;64-bit
+der-lt-dan;ESET Endpoint Security;2021-04-14 11:39:55;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+acc-dir-lp-001;ESET Endpoint Security;2021-04-14 09:34:27;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+fpo-dt-rr-fd-014;ESET Endpoint Security;2021-04-13 16:32:20;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1440;64-bit
+desktop-0cssqqh;ESET Endpoint Security;2021-04-13 16:32:10;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+der-com-lt-001;ESET Endpoint Security;2021-04-13 16:32:06;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Enterprise;10.0.18363.1440;64-bit
+desktop-mrpmlv6;ESET Endpoint Security;2021-04-13 16:03:03;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+rnr-herbal-11;ESET Endpoint Security;2021-04-13 16:01:50;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+vmap-mne-dt-010;;2021-04-13 15:52:55;;;3;0;Unknown;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18362.1256;64-bit
+dg-office-pc;ESET Endpoint Security;2021-04-13 15:29:26;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 8.1;6.3.9600.19968;64-bit
+pv-pms-dd-dt-003;ESET Endpoint Security;2021-04-12 15:50:38;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1440;64-bit
+cer-dt-005;ESET Endpoint Security;2021-04-12 15:34:43;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home;10.0.19042.867;64-bit
+rnr-bvm-lt-012;ESET Endpoint Security;2021-04-12 14:35:37;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19041.867;64-bit
+rnr-fpo-dt-006;ESET Endpoint Security;2021-04-12 12:33:26;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1316;64-bit
+vmap-afp-dt-034;ESET Endpoint Security;2021-04-12 11:19:27;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1440;64-bit
+fsan-stat-dt-01;ESET Endpoint Security;2021-04-12 09:57:49;8.0.2028.0;;1;0;Updated;;11;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+desktop-nq3psh2;ESET Endpoint Security;2021-04-09 15:58:58;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.15063.1387;64-bit
+desktop-k2jqf3u;ESET Endpoint Security;2021-04-09 15:35:17;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+cer-cmra-007;ESET Endpoint Security;2021-04-09 13:23:52;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 8.1 Pro;6.3.9600.19155;64-bit
+cer-accc-dt-002;ESET Endpoint Security;2021-04-08 15:41:46;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 8.1 Pro;6.3.9600.19968;64-bit
+vmap-afpd-005-lt;ESET Endpoint Security;2021-04-08 10:25:51;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.867;64-bit
+rnr-id-lt-ukadike;ESET Endpoint Security;2021-03-31 13:25:08;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.804;64-bit
+fsan-bky-lt-ona;ESET Endpoint Security;2021-03-30 14:23:45;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.18363.1256;64-bit
+rnr-adv-dt-002;ESET Endpoint Security;2021-03-29 09:44:58;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Home;10.0.15063.1418;64-bit
+fsan-cdx-lt006;ESET Endpoint Security;2021-03-23 12:32:48;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.18363.1440;64-bit
+desktop-sg8u9h9;ESET Endpoint Security;2021-03-23 11:30:55;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1379;64-bit
+der-pharmope-lt-004;ESET Endpoint Security;2021-03-22 14:24:59;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Enterprise;10.0.18363.1379;64-bit
+desktop-d073rud;ESET Endpoint Security;2021-03-22 10:56:09;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home;10.0.19042.804;64-bit
+desktop-il93sha;ESET Endpoint Security;2021-03-22 10:55:52;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.17763.348;64-bit
+desktop-1sqvp5r;ESET Endpoint Security;2021-03-19 13:59:29;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1440;64-bit
+desktop-vgo1ltt;ESET Endpoint Security;2021-03-18 16:43:05;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1379;64-bit
+desktop-vgo1ltt;ESET Endpoint Security;2021-03-18 15:24:06;8.0.2028.0;;6;0;Unknown;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1379;64-bit
+rnr-bvm-lt-gbt;ESET Endpoint Security;2021-03-15 13:03:01;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home;10.0.19042.867;64-bit
+laptop-5tv4one2;ESET Endpoint Security;2021-03-12 11:07:23;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.14393.2214;64-bit
+desktop-0nedmvl;ESET Endpoint Security;2021-03-10 14:11:56;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.19042.804;64-bit
+randr-advert-07;ESET Endpoint Security;2021-03-09 16:12:53;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.17763.348;64-bit
+desktop-0for4oh;ESET Endpoint Security;2021-03-09 11:13:27;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.18363.1379;64-bit
+asapbee;ESET Endpoint Security;2021-02-24 16:36:18;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1379;64-bit
+rnr-ifpw-dt-032;ESET Endpoint Security;2021-02-23 09:18:32;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1316;64-bit
+desktop-bfu0kv9;ESET Endpoint Security;2021-02-19 15:15:49;8.0.2028.0;;1;0;Updated;;2;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.804;64-bit
+vmap-afp-dt-001;;2021-02-16 15:00:41;;;1;0;Unknown;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.16299.1087;64-bit
+beredugoalex;ESET Endpoint Security;2021-02-16 13:36:41;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.18363.1350;64-bit
+vmap-afp-dt-001;;2021-02-16 12:44:25;;;1;0;Unknown;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.16299.1087;64-bit
+fpo-dt-rr-fd-014;;2021-02-10 12:17:29;;;1;0;Unknown;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1316;64-bit
+rnr-fpo-dt-011;;2021-02-10 11:33:10;;;3;0;Unknown;1;0;Lost & found;5;"Microsoft Windows 7 Ultimate ";6.1.7600;32-bit
+laptop-tccmfk0s;;2021-02-09 11:24:33;;;1;0;Unknown;;0;Lost & found;5;Microsoft Windows 10 Home Single Language;10.0.18363.1350;64-bit
+desktop-ugge231;ESET Endpoint Security;2021-02-08 15:38:09;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18363.1316;64-bit
+rnr-ifpw-dt-047;ESET Endpoint Security;2021-02-05 17:24:24;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.19042.746;64-bit
+rnr-fpo-dt-004;;2021-02-05 11:44:55;;;3;0;Unknown;1;0;Lost & found;5;"Microsoft Windows 7 Professional ";6.1.7601;64-bit
+der-pharmaops-dt-ibok;ESET Endpoint Security;2021-02-03 16:21:05;8.0.2028.0;;3;0;Updated;1;0;Lost & found;5;"Microsoft Windows 7 Ultimate ";6.1.7601.24544;64-bit
+fpo-dt-ray-08;ESET Endpoint Security;2021-02-03 12:57:54;8.0.2028.0;;5;0;Not updated;1;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18362.1082;64-bit
+rnr-fpo-dt-003;;2021-02-02 17:04:23;;;3;0;Unknown;1;0;Lost & found;5;"Microsoft Windows 7 Ultimate ";6.1.7600;32-bit
+vmap-pm-dt-09;ESET Endpoint Security;2021-02-02 14:56:22;8.0.2028.0;;5;0;Updated;2;0;Lost & found;5;Microsoft Windows 10 Pro;10.0.18362.175;64-bit
+randr-id-13;ESET Endpoint Security;2021-01-29 10:12:46;8.0.2028.0;;1;0;Updated;;0;Lost & found;5;"Microsoft Windows 7 Professional ";6.1.7601.24544;64-bit
+cer-accc-dt-002;ESET Endpoint Security;2021-01-26 10:45:51;8.0.2028.0;;5;0;Not updated;1;0;Lost & found;5;Microsoft Windows 8.1 Pro;6.3.9600.19652;64-bit
+limsremote;;2021-01-18 15:50:48;;;1;0;Unknown;;0;Lost & found;5;Microsoft Windows 10 Home;10.0.18363.1256;64-bit
+vmap-afp-dt-001;;;;;1;0;Unknown;;0;Lost & found;;;;
